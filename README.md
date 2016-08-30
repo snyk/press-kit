@@ -23,22 +23,16 @@ Press kit includes files in SVG, PNG and EPS formats. Or to quickly grab a PNG, 
 
 ### Wordmark with symbol
 
-| Horizontal | | |
-| ------------- | ------------- | ------------- |
-| <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/Black%20text%20with%20transparent%20background%20and%20transparent%20border/Horizontal/wordmark-symbol%20_horizontal@2x.png?raw=true" width="200" alt=""> | <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/White%20text%20with%20color%20background/Horizontal/wordmark-symbol%20_horizontal%20_c@2x.png?raw=true" width="200" alt=""> | <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/White%20text%20with%20transparent%20background/Horizontal/wordmark-symbol%20_horizontal%20_c%20_transparent@2x.png?raw=true" width="200" alt=""> |
-| Black text, transparent background | White text, color background | White text, transparent background |
+| Horizontal | | | |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/Black%20text%20with%20transparent%20background%20and%20transparent%20border/Horizontal/wordmark-symbol%20_horizontal@2x.png?raw=true" width="200" alt=""> | <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/White%20text%20with%20color%20background/Horizontal/wordmark-symbol%20_horizontal%20_c@2x.png?raw=true" width="200" alt=""> | <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/White%20text%20with%20transparent%20background/Horizontal/wordmark-symbol%20_horizontal%20_c%20_transparent@2x.png?raw=true" width="200" alt=""> | <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/White%20text%20with%20transparent%20background%20and%20transparent%20border/Horizontal/wordmark-symbol%20_horizontal%20_transparent@2x.png?raw=true" width="200" alt=""> |
+| Black text, transparent background | White text, color background | White text, transparent background | White text, transparent background, transparent border |
 
 
 | Vertical | | |
 | ------------- | ------------- | ------------- |
 | <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/Black%20text%20with%20transparent%20background%20and%20transparent%20border/Vertical/wordmark-symbol%20_vertical@2x.png?raw=true" width="200" alt=""> | <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/White%20text%20with%20transparent%20background/Vertical/wordmark-symbol%20_vertical%20_c%20_transparent@2x.png?raw=true" width="200" alt=""> | <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/White%20text%20with%20color%20background/Vertical/wordmark-symbol%20_vertical%20_c@2x.png?raw=true" width="200" alt=""> |
 | Black text, transparent background | White text, color background | White text, transparent background |
-
-
-| White text, transparent background, transparent border |
-| ------------- |
-| <img src="https://github.com/Snyk/press-kit/blob/master/Logo/Wordmark%20with%20symbol/White%20text%20with%20transparent%20background%20and%20transparent%20border/Horizontal/wordmark-symbol%20_horizontal%20_transparent@2x.png?raw=true" width="200" alt=""> |
-| Horizontal |
 
 
 | Monochrome |
